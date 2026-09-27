@@ -2,7 +2,6 @@
 A simple quiz game built with python
 
 ## Table Of Contents
-- [Table Of Contents](#table-of-contents)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Requirement](#requirement)
@@ -11,6 +10,7 @@ A simple quiz game built with python
 - [Usage](#usage)
 - [Example Output](#example-output)
 - [Roadmap](#roadmap)
+- [Screenshot](#Screenshot)
 - [Contributing](#contributing)
 - [Lincence](#lincence)
 - [Aurthor](#aurthor)
@@ -119,6 +119,16 @@ good job mohammad
 - [ ] add more quiz questions
 - [ ] add difficultly levels
 - [ ] add a timer
+
+## Screenshot
+### start game
+![start game](pictures\1.png)
+
+### quiz
+![quiz](pictures\2.jpg)
+
+### final score
+![final score](pictures/3.jpg)
 
 ## Contributing
 
