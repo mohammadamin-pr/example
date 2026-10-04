@@ -1,4 +1,6 @@
 # Python Quiz Game
+![Static Badge](https://img.shields.io/badge/python-3.12-blue)
+
 A simple quiz game built with python
 
 ## Table Of Contents
@@ -32,21 +34,39 @@ A simple quiz game built with python
 
 ```text
 python_quiz_game/
-│   main.py
-│   question.py
-│   requirment.txt
 │   .env.example
 │   .gitignore
+│   main.py
+│   question.py
+│   quiz_demo_git.gif
 │   README.md
+│   requirments.txt
+│
+│
+├───pictures
+│       1.png
+│       2.jpg
+│       3.jpg
+│
 ```
 
 ### File discription
-- `main.py` - main file used to run quiz game
-- `question.py` - stores questions and answeers
-- `requirment.txt` - lists the python packages needed for the project
-- `.env.example` - show the envoirment variables needed by the project
-- `.gitignore` - tells git which files and folders should not be tracked
-- - `README.md` - contains the project documentation
+| file | discription |
+| --- | --- |
+| `main.py` | main file used to run quiz game|
+| `question.py` | stores questions and answeers|
+| `requirment.txt` | lists the python packages needed for the project|
+| `.env.example` | show the envoirment variables needed by the project|
+| `.gitignore` | tells git which files and folders should not be tracked|
+| `README.md` | contains the project documentation|
+| `pictures/` | stores project screentshots|
+| `pictures/1.png` | screentshot of the game start |
+| `pictures/2.jpg` | screentshot of the quiz |
+| `pictures/3.jpg` | screentshot of the final results |
+| `gifs/` | store demo gif files |
+| `quiz_demo_git.gif` | shows the project demo |
+
+
 
 
 ## Requirement
@@ -119,6 +139,9 @@ good job mohammad
 - [ ] add more quiz questions
 - [ ] add difficultly levels
 - [ ] add a timer
+
+## Demo
+![quiz game demo](quiz_demo_git.gif)
 
 ## Screenshot
 ### start game
